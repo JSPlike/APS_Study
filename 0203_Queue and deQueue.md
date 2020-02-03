@@ -70,3 +70,11 @@
     }
   }
 ```
+
+### 자바 StringBuilder 함수
+
+```
+  StringBuilder sb = new StringBuilder();
+  sb.append("<");
+  
+```
